@@ -11,6 +11,6 @@
 
 🗄️ SQL & SQL Server
 
-🛠️ Git para controle de versão
+🛠️ Git 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql)](https://skillicons.dev)
