@@ -1,16 +1,13 @@
-## Hi there 👋
+## Arthur Cassiano Vitor
 
-<!--
-**cassanow/cassanow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Atualmente focado em evoluir minhas habilidades com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 C# & ASP.NET Core
+
+🗄️ SQL & SQL Server
+
+🛠️ Git para controle de versão
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql)](https://skillicons.dev)
