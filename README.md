@@ -13,4 +13,4 @@
 
 🛠️ Git 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql)](https://skillicons.dev)
