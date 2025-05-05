@@ -1,7 +1,7 @@
 ## Arthur Cassiano Vitor
 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Análise e Desenvolvimento de Sistemas
 
 
 
