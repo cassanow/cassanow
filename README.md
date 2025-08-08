@@ -4,13 +4,14 @@
 🎓 Análise e Desenvolvimento de Sistemas
 
 
-
-🚀 Atualmente focado em evoluir minhas habilidades com:
+🚀 Tecnologias utlizadas
 
 💻 C# & ASP.NET Core
 
 🗄️ SQL & SQL Server
 
-🛠️ Git 
+🛠️ Git/GitHub
+
+✅ SOLID, Clean Code
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql)](https://skillicons.dev)
