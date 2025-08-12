@@ -3,7 +3,7 @@
 
 🚀 Tecnologias utlizadas
 
-💻 C# .NET
+💻 C# .NET, Entity Framework, ASP.NET
 
 🗄️ SQL & SQL Server
 
