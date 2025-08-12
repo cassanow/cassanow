@@ -1,9 +1,6 @@
 ## Arthur Cassiano Vitor
 
 
-🎓 Análise e Desenvolvimento de Sistemas
-
-
 🚀 Tecnologias utlizadas
 
 💻 C# & ASP.NET Core
