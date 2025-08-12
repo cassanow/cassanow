@@ -3,7 +3,7 @@
 
 🚀 Tecnologias utlizadas
 
-💻 C# & ASP.NET Core
+💻 C# .NET
 
 🗄️ SQL & SQL Server
 
