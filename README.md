@@ -3,11 +3,11 @@
 <h2></h2>
 <header> 
 	<div>
-		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=45&duration=3000&pause=700&color=00FF88&center=true&vCenter=true&random=false&width=1000&height=85&lines=Olá,+Mundo!;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=45&duration=3000&pause=700&color=A020F0&center=true&vCenter=true&random=false&width=1000&height=85&lines=Olá,+Mundo!;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG"/>
 	</div>
 	<section align='left'>
-		<img src="https://komarev.com/ghpvc/?username=cassanow&label=Visualizações%20do%20Perfil&color=00FF88&style=flat" alt="Profile views" />
-		<img src="https://img.shields.io/github/stars/cassanow?affiliations=OWNER%2CCOLLABORATOR&color=00FF88&style=flat" alt="Stars"/>
+		<img src="https://komarev.com/ghpvc/?username=cassanow&label=Visualizações%20do%20Perfil&color=A020F0&style=flat" alt="Profile views" />
+		<img src="https://img.shields.io/github/stars/cassanow?affiliations=OWNER%2CCOLLABORATOR&color=A020F0&style=flat" alt="Stars"/>
 	</section>	 
 </header>
 
@@ -52,8 +52,8 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassanow&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassanow&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassanow&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassanow&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 ---
@@ -65,10 +65,10 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcassianow/)
-[![Email](https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashcassano8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcassianow/)
+[![Email](https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashcassano8@gmail.com)
 
 ---
 <footer>
-  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00FF88&section=footer"/>
+  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=#A020F0&section=footer"/>
 </footer>
