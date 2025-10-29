@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=cs,javascript&perline=6" />
 
 ### ⚙️ Frameworks & Ferramentas  
-<img src="https://skillicons.dev/icons?i=dotnet,windows,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=dotnet,windows,vscode,git,github&perline=6" />
 
 
 ### 🗄️ Bancos de Dados  
