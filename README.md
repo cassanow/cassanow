@@ -49,15 +49,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassanow&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassanow&layout=compact&langs_count=8&theme=midnight-purple"/>
-</div>
-
----
-
 ## 🧩 Projetos em Destaque
 - 🩺 **senhasegura** — Projeto desenvolvido com C#, HTML, CSS e Javascript para para a verificação e validação de senhas, garantindo que atendam aos requisitos de segurança definidos
 - 🤖 **Cofrinho** —   API desenvolvida para a organização e armazenamento seguro de senhas por meio de cofres personalizados criados conforme a necessidade do usuário
