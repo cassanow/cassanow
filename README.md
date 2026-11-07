@@ -47,12 +47,6 @@
 </tr>
 </table>
 
----
-
-## 🧩 Projetos em Destaque
-- 🩺 **senhasegura** — Projeto desenvolvido com C#, HTML, CSS e Javascript para para a verificação e validação de senhas, garantindo que atendam aos requisitos de segurança definidos
-- 🤖 **Cofrinho** —   API desenvolvida para a organização e armazenamento seguro de senhas por meio de cofres personalizados criados conforme a necessidade do usuário
----
 
 ## 📫 Contato
 
